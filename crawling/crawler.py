@@ -103,4 +103,4 @@ for image_src in image_list:
     urlretrieve(image_src, FOLDER_PATH + f'{number}.png')
     number += 1
     time.sleep(0.5)
-    # 파이썬으로 이미지 url파일 다운로드//
+    # 파이썬으로 이미지 url파일 다운로드// 끝
